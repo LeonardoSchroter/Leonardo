@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leozin22
-- 👀 I’m interested in learning more about front and back dev
+- 👀 I’m interested in learning more about front and back end
 - 🌱 I’m currently learning front dev
 - 💞️ I’m looking to collaborate on a project when i am better at this
 - 📫 How to reach me: whatssap:(55) 55996701392
