@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leozin22
+- 👋 Hi, I’m @Leonardo
 - 👀 I’m interested in learning more about programing
 - 📫 How to reach me: email: leo.schroter@gmail.com
 <!---
